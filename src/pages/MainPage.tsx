@@ -179,7 +179,6 @@ export default function CRMPage() {
                 onValueChange={(v) => {
                   if (isStatusFilter(v)) {
                     setLeadStatus(v);
-                    notify.info("Status filter", { description: v });
                   }
                 }}
               >
@@ -271,7 +270,6 @@ export default function CRMPage() {
                 onValueChange={(v) => {
                   if (isStageFilter(v)) {
                     setOppStage(v);
-                    notify.info("Stage filter", { description: v });
                   }
                 }}
               >
