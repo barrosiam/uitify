@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://json-server-teste-gbm-ybm1.vercel.app/",
     "paths": {
       "@/*": ["./src/*"]
     },
