@@ -1,0 +1,137 @@
+{
+  "leads": [
+    {
+      "id": "L-001",
+      "name": "Ana Souza",
+      "company": "Acme",
+      "email": "ana.souza@acme.com.br",
+      "source": "Web",
+      "score": 82,
+      "status": "Active",
+      "createdAt": "2025-08-01T10:15:00.000Z",
+      "updatedAt": "2025-08-01T10:15:00.000Z"
+    },
+    {
+      "id": "L-002",
+      "name": "Bruno Lima",
+      "company": "Globex",
+      "email": "bruno.lima@globex.com",
+      "source": "Referral",
+      "score": 67,
+      "status": "Pending",
+      "createdAt": "2025-08-03T14:20:00.000Z",
+      "updatedAt": "2025-08-05T09:10:00.000Z"
+    },
+    {
+      "id": "L-003",
+      "name": "Carla Mendes",
+      "company": "Initech",
+      "email": "carla.mendes@initech.com",
+      "source": "Ads",
+      "score": 45,
+      "status": "Active",
+      "createdAt": "2025-07-28T09:00:00.000Z",
+      "updatedAt": "2025-07-28T09:00:00.000Z"
+    },
+    {
+      "id": "L-004",
+      "name": "Diego Rocha",
+      "company": "Umbrella",
+      "email": "diego.rocha@umbrella.com",
+      "source": "Event",
+      "score": 90,
+      "status": "Inactive",
+      "createdAt": "2025-07-30T13:00:00.000Z",
+      "updatedAt": "2025-08-02T12:00:00.000Z"
+    },
+    {
+      "id": "L-005",
+      "name": "Elisa Prado",
+      "company": "Stark",
+      "email": "elisa.prado@starkindustries.com",
+      "source": "Web",
+      "score": 73,
+      "status": "Pending",
+      "createdAt": "2025-08-06T08:30:00.000Z",
+      "updatedAt": "2025-08-06T10:45:00.000Z"
+    },
+    {
+      "id": "L-006",
+      "name": "Felipe Nunes",
+      "company": "Wayne",
+      "email": "felipe.nunes@wayneenterprises.com",
+      "source": "Ads",
+      "score": 58,
+      "status": "Pending",
+      "createdAt": "2025-08-07T16:40:00.000Z",
+      "updatedAt": "2025-08-19T02:29:20.073Z"
+    },
+    {
+      "id": "L-007",
+      "name": "Gabriela Silva",
+      "company": "Hooli",
+      "email": "gabriela.silva@hola.com",
+      "source": "Referral",
+      "score": 95,
+      "status": "Inactive",
+      "createdAt": "2025-08-08T11:00:00.000Z",
+      "updatedAt": "2025-08-19T21:42:10.126Z"
+    },
+    {
+      "id": "L-008",
+      "name": "Henrique Alves",
+      "company": "Soylent",
+      "email": "henrique.alves@soylent.com",
+      "source": "Event",
+      "score": 39,
+      "status": "Active",
+      "createdAt": "2025-08-09T09:25:00.000Z",
+      "updatedAt": "2025-08-09T09:25:00.000Z"
+    },
+    {
+      "id": "L-009",
+      "name": "Isabela Costa",
+      "company": "Tyrell",
+      "email": "isabela.costa@tyrellcorp.com",
+      "source": "Web",
+      "score": 88,
+      "status": "Pending",
+      "createdAt": "2025-08-10T10:10:00.000Z",
+      "updatedAt": "2025-08-12T10:10:00.000Z"
+    },
+    {
+      "id": "L-010",
+      "name": "João Pereira",
+      "company": "Wonka",
+      "email": "joao.pereira@wonka.com",
+      "source": "Ads",
+      "score": 62,
+      "status": "Pending",
+      "createdAt": "2025-08-11T15:50:00.000Z",
+      "updatedAt": "2025-08-11T15:50:00.000Z"
+    },
+    {
+      "id": "L-011",
+      "name": "Karla Brito",
+      "company": "Pied Piper",
+      "email": "karla.brito@piedpiper.com",
+      "source": "Referral",
+      "score": 77,
+      "status": "Inactive",
+      "createdAt": "2025-08-12T12:05:00.000Z",
+      "updatedAt": "2025-08-14T09:00:00.000Z"
+    },
+    {
+      "id": "L-012",
+      "name": "Lucas Martins",
+      "company": "Oceanic",
+      "email": "lucas.martins@oceanicair.com",
+      "source": "Web",
+      "score": 51,
+      "status": "Active",
+      "createdAt": "2025-08-13T18:20:00.000Z",
+      "updatedAt": "2025-08-13T18:20:00.000Z"
+    }
+  ],
+  "opportunities": []
+}
