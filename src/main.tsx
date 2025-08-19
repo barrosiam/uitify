@@ -15,7 +15,7 @@ createRoot(document.getElementById("root")!).render(
       logoAlt="Uitify Logo"
       items={[
         { label: "About", href: "https://uitify.com/" },
-        { label: "README", href: "/readme" },
+        { label: "README", href: "https://github.com/barrosiam/uitify" },
         { label: "Docs", href: docs },
       ]}
     />
